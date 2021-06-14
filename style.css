@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+}
+.card-img-top {
+  width: 30%;
+  height: 30%;
+}
+.page {
+  background-color: #009e60;
+  width: 50%;
+  height: 50%;
+}
+.alertItem {
+  width: 30%;
+  height: 20%;
+}
